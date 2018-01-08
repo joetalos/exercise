@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 public class Orange implements Product {
 
-    private static final BigDecimal PRICE = new BigDecimal(0.25);
+    public static final BigDecimal PRICE = new BigDecimal(0.25);
 
     public BigDecimal getPrice() { return PRICE; }
 }

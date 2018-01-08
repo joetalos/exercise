@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0028a564-4372-4cc5-bd99-db2d15d35969" name="Default" comment="" />
+    <list default="true" id="0028a564-4372-4cc5-bd99-db2d15d35969" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/cart/application/ShoppingCart.class" afterPath="$PROJECT_DIR$/build/classes/main/cart/application/ShoppingCart.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/cart/product/Apple.class" afterPath="$PROJECT_DIR$/build/classes/main/cart/product/Apple.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/cart/product/Orange.class" afterPath="$PROJECT_DIR$/build/classes/main/cart/product/Orange.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/ShoppingCartTest.class" afterPath="$PROJECT_DIR$/build/classes/test/ShoppingCartTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cart/application/ShoppingCart.java" afterPath="$PROJECT_DIR$/src/main/java/cart/application/ShoppingCart.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cart/product/Apple.java" afterPath="$PROJECT_DIR$/src/main/java/cart/product/Apple.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cart/product/Orange.java" afterPath="$PROJECT_DIR$/src/main/java/cart/product/Orange.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cart/product/Product.java" afterPath="$PROJECT_DIR$/src/main/java/cart/product/Product.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ShoppingCartTest.java" afterPath="$PROJECT_DIR$/src/test/java/ShoppingCartTest.java" />
+    </list>
     <ignored path="exercise.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,12 +59,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShoppingCartTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ShoppingCartTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ShoppingCartTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="2.52809">
+              <caret line="109" column="61" selection-start-line="109" selection-start-column="61" selection-end-line="109" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,20 +75,30 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Product.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShoppingCart.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ShoppingCart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cart/application/ShoppingCart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2776886">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Orange.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Orange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,7 +107,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -98,6 +121,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -355,11 +381,12 @@
         <option value="$PROJECT_DIR$/src/main/java/Product.java" />
         <option value="$PROJECT_DIR$/src/main/java/product/Apple.java" />
         <option value="$PROJECT_DIR$/src/main/java/product/Orange.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cart/product/Orange.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cart/product/Apple.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/cart/application/ShoppingCart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cart/product/Apple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cart/product/Orange.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cart/product/Product.java" />
         <option value="$PROJECT_DIR$/src/test/java/ShoppingCartTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cart/application/ShoppingCart.java" />
       </list>
     </option>
   </component>
@@ -402,7 +429,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -510,6 +536,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -865,34 +892,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_exercise - 2018.01.07 at 14h 43m 20s.xml">
+    <history-entry file="All_in_exercise - 2018.01.07 at 16h 31m 00s.xml">
       <configuration name="All in exercise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_exercise - 2018.01.07 at 14h 43m 39s.xml">
+    <history-entry file="All_in_exercise - 2018.01.07 at 16h 31m 38s.xml">
       <configuration name="All in exercise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_exercise - 2018.01.07 at 14h 43m 49s.xml">
+    <history-entry file="All_in_exercise - 2018.01.07 at 16h 34m 25s.xml">
       <configuration name="All in exercise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_exercise - 2018.01.07 at 14h 48m 06s.xml">
+    <history-entry file="All_in_exercise - 2018.01.07 at 16h 36m 43s.xml">
       <configuration name="All in exercise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_exercise - 2018.01.07 at 14h 53m 59s.xml">
+    <history-entry file="All_in_exercise - 2018.01.07 at 16h 39m 36s.xml">
       <configuration name="All in exercise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_exercise - 2018.01.07 at 14h 54m 31s.xml">
+    <history-entry file="All_in_exercise - 2018.01.07 at 16h 41m 44s.xml">
       <configuration name="All in exercise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_exercise - 2018.01.07 at 14h 55m 04s.xml">
+    <history-entry file="All_in_exercise - 2018.01.07 at 16h 44m 59s.xml">
       <configuration name="All in exercise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_exercise - 2018.01.07 at 14h 55m 15s.xml">
+    <history-entry file="All_in_exercise - 2018.01.07 at 16h 51m 58s.xml">
       <configuration name="All in exercise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_exercise - 2018.01.07 at 14h 55m 46s.xml">
+    <history-entry file="All_in_exercise - 2018.01.07 at 18h 46m 15s.xml">
       <configuration name="All in exercise" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_exercise - 2018.01.07 at 14h 56m 09s.xml">
+    <history-entry file="All_in_exercise - 2018.01.08 at 06h 10m 35s.xml">
       <configuration name="All in exercise" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -937,8 +964,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="Apple.PRICE" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -956,8 +989,114 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/ShoppingCartTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cart/application/ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ShoppingCartTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="50" selection-start-line="65" selection-start-column="50" selection-end-line="65" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cart/application/ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ShoppingCartTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -999,7 +1138,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1041,7 +1182,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1057,14 +1200,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Orange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1080,12 +1215,12 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Apple.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Orange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
@@ -1093,18 +1228,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ShoppingCartTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cart/product/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cart/application/ShoppingCart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2776886">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ShoppingCartTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.52809">
+          <caret line="109" column="61" selection-start-line="109" selection-start-column="61" selection-end-line="109" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
